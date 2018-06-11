@@ -10,6 +10,7 @@ public class TestBean {
 
     public String getContent(){
         return content;
+
     }
 
     public void setContent(String content) {
